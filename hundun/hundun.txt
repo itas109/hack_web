@@ -1,2 +1,5 @@
 https://www.hundun.cn/course_video/detail?course_id=?&backplay=1
 
+No_encrypt
+*.m3u8 can convert to *.ts by ffmepg
+
